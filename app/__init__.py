@@ -7,8 +7,8 @@ from app.person import person
 from app.university import university
 
 universal = os.environ['UNIVERSAL_API']
-account_sid = "AC32798c5f8600bb6d158e63181eb705e1"
-auth_token = "3ba6672b64fb89178bfeaef60ce34061"
+account_sid = "wow"
+auth_token = "dankmemes"
 
 # Sanic Setup - Create App
 async def create_app(config=config.base_config):
